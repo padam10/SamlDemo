@@ -1,0 +1,6 @@
+C:\Users\pbhandari\Documents\SAMLDemo\GenericPrincipalDemo\bin\Debug\GenericPrincipalDemo.exe.config
+C:\Users\pbhandari\Documents\SAMLDemo\GenericPrincipalDemo\obj\Debug\GenericPrincipalDemo.csprojResolveAssemblyReference.cache
+C:\Users\pbhandari\Documents\SAMLDemo\GenericPrincipalDemo\bin\Debug\GenericPrincipalDemo.exe
+C:\Users\pbhandari\Documents\SAMLDemo\GenericPrincipalDemo\bin\Debug\GenericPrincipalDemo.pdb
+C:\Users\pbhandari\Documents\SAMLDemo\GenericPrincipalDemo\obj\Debug\GenericPrincipalDemo.exe
+C:\Users\pbhandari\Documents\SAMLDemo\GenericPrincipalDemo\obj\Debug\GenericPrincipalDemo.pdb
